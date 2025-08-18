@@ -1,0 +1,1 @@
+# OpenShiftSqlDocker
