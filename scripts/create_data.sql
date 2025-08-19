@@ -1,0 +1,7 @@
+USE appdb;
+DROP TABLE IF EXISTS data;
+CREATE TABLE data (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  first_name VARCHAR(100) NOT NULL,
+  last_name  VARCHAR(100) NOT NULL
+);
